@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/goliatone/node-bacstack-promise#readme",
   "dependencies": {
-    "bacstack": "0.0.1-beta.5"
+    "bacstack": "0.0.1-beta.5",
+    "gextend": "^0.3.0"
   },
   "devDependencies": {
     "bogota": "^2.0.4",
