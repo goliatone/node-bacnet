@@ -1,0 +1,22 @@
+{
+  "name": "node-bacstack-promise",
+  "version": "0.0.0",
+  "description": "BACnet library written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goliatone/node-bacstack-promise.git"
+  },
+  "keywords": [
+    "bacnet"
+  ],
+  "author": "goliatone <hello@goliatone.com> (http://goliatone.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goliatone/node-bacstack-promise/issues"
+  },
+  "homepage": "https://github.com/goliatone/node-bacstack-promise#readme"
+}
