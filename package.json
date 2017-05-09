@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/goliatone/node-bacstack-promise/issues"
   },
-  "homepage": "https://github.com/goliatone/node-bacstack-promise#readme"
+  "homepage": "https://github.com/goliatone/node-bacstack-promise#readme",
+  "dependencies": {
+    "bacstack": "0.0.1-beta.5"
+  }
 }
