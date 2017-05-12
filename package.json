@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/goliatone/node-bacnet#readme",
   "dependencies": {
-    "bacstack": "0.0.1-beta.5",
+    "bacnet": "0.0.13",
     "gextend": "^0.3.0"
   },
   "devDependencies": {
